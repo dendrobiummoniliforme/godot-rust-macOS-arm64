@@ -1,6 +1,8 @@
 # `librust.dylib`
 
 * Made following [Godot Rust: Book/Intro/HelloWorld](https://godot-rust.github.io/book/intro/hello-world.html)
+* Targets `macOS.arm64`.
+* Not planning on actively maintaining this, but wanted to share it.
 
 ## Godot
 
